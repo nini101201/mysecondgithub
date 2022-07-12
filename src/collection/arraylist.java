@@ -33,6 +33,7 @@ public class arraylist {
 		    	{
 		    		System.out.println(op.next());
 		    	}
+		    	System.out.println("well come");
 		    	
 		    	
 		    	
